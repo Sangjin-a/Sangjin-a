@@ -1,8 +1,8 @@
 # WOOWAXING 
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={netjin99})](https://solved.ac/{netjin99})
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=netjin99)](https://solved.ac/netjin99)
 ## 참여 프로젝트
 
 ### 이세계 아이돌 3주년 VRC 조공
