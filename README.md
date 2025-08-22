@@ -1,8 +1,10 @@
 # WOOWAXING 
 
-
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sangjin-a&show_icons=true&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=netjin99)](https://solved.ac/netjin99)
+
+
 ## 참여 프로젝트
 
 ### 이세계 아이돌 3주년 VRC 조공
