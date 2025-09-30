@@ -72,7 +72,7 @@
 - XR Grab Interactable Event를 활용한 양대 캐릭터 팔 잡기 및 이동 기능
 - Ground IK를 활용한 캐릭터 발 경사면 붙도록 구현
 - RagDoll 형식 적 캐릭터 신체부위 피격 리액션 기능
-
+- [재직 당시 업무](https://coral-discovery-a4a.notion.site/VRIK-9c7cd6e582774c208580560ec01eba78?source=copy_link)
 ---
 
 ## 🎯 Featured Projects
