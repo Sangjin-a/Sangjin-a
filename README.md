@@ -5,6 +5,11 @@
 
 
 # 참여 프로젝트
+## 2025 순천 AI 게임잼
+
+
+![게임잼 작품](https://github.com/Sangjin-a/Sangjin-a/blob/main/GameJam.gif?raw=true)
+---
 
 ## 이세계 아이돌 3주년 VRC 조공
 ![1](https://github.com/user-attachments/assets/7cd55b56-3d54-438f-8dc1-45d4e99c2065)
