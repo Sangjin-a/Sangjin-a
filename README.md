@@ -60,7 +60,7 @@
 **Unity Developer** | 2024.01 ~ Present
 
 - 4/25 위성 사업 **GroundTrack** 제작 (Unity)
-- 군집 위성 시뮬레이터 제작 (WPF, C#)
+- 군집 위성 시뮬레이터 제작 (Unity)
 - CAN데이터 모니터링 S/W 제작 (WPF)
 - 아리랑6호 데이터 압축 해체 S/W 제작 (WPF)
 
