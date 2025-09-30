@@ -121,7 +121,7 @@
 **Key Features:**
 - 프로젝트 팀장을 맡아 개발 및 아트 파트 인원들의 역할 분배 및 팀 관리
 - Custom Inspector를 통해 비개발자도 Inspector에서 수정 가능한 대화 스크립트 시스템 구현
-- 타하 연출을 하듯 Typing System 구현
+- 타자연습을 하듯 Typing System 구현
 - Mathf 및 Animation을 이용한 20가지 이상의 탄막 패턴 개발
 - Object Pooling을 통해 수많은 탄막을 효율적인 GC 관리
 
@@ -146,8 +146,8 @@
 - Singleton Pattern을 이용한 PlayerController 관리
 - Animation Event를 통한 프레임 단위 적 공격 로직 구현
 - 로그라이크 특성을 구현하기 위해 다수의 맵(챕터) 랜덤 생성 구현
-- Unity NavMesh2D를 통해 적의 AI 이동 구현
-- 인게임내 모든 UI 시스템 구현
+- A* 알고리즘을 통해 적의 AI 이동 구현
+- 인게임내 모든 UI,적 시스템 구현
 
 <div align="center">
     <img src="https://github.com/Sangjin-a/Sangjin-a/blob/main/L_L.gif?raw=true" width="400">
