@@ -75,7 +75,7 @@
 - [재직 당시 업무](https://coral-discovery-a4a.notion.site/VRIK-9c7cd6e582774c208580560ec01eba78?source=copy_link)
 ---
 
-## 🎯 Featured Projects
+## 🎯 Projects
 
 ### 🎮 2025 순천 AI 게임잼
 **GAME JAM | 2D Action Game** | 2025.09.26 ~ 2025.09.28
