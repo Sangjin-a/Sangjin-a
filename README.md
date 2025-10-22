@@ -75,7 +75,26 @@
 - [재직 당시 업무](https://coral-discovery-a4a.notion.site/VRIK-9c7cd6e582774c208580560ec01eba78?source=copy_link)
 ---
 
+
+## 📋 Project List
+
+<div align="center">
+
+| 프로젝트 | 기간 | 기술 스택 | 설명 |
+|:---:|:---:|:---:|:---:|
+| [🎮 순천 AI 게임잼](#-2025-순천-ai-게임잼) | 2025.09 | Unity, C# | 2D 횡스크롤 액션 게임 |
+| [🎃 Unity Spooky 챌린지](#-unity-2025-spooky-챌린지) | 2025.10 | Unity, HDRP, Timeline | 유니티 코리아 챌린지 |
+| [🌙 이세계 아이돌 VRC](#-이세계-아이돌-3주년-vrc-콘텐츠-제작) | 2024 | VRChat, Udon# | VR 방탈출 콘텐츠 |
+| [👻 The Chimera](#-the-chimera) | 2023 | Unity, C# | 2D 타이핑 탄막 게임 |
+| [📚 The Library](#-the-library) | 2023 | Unity, C# | 2D 로그라이크 호러 |
+| [💡 LIT 3D Prototype](#-lit-3d-prototype-simulate) | 졸업작품 | Unity, Android, Firebase | IoT 안전 솔루션 |
+
+</div>
+
+---
+
 ## 🎯 Projects
+
 
 ### 🎮 2025 순천 AI 게임잼
 **GAME JAM | 2D Action Game** | 2025.09.26 ~ 2025.09.28
@@ -84,6 +103,24 @@
 
 2박 3일동안 게임잼(해커톤)에 참가하여 5명의 팀원과 함께 개발한 작품입니다.  
 순천만의 배경과 동물, 곤충들을 사이버펑크식 그래픽으로 표현한 2D 횡스크롤 액션 게임입니다.
+
+---
+<details>
+<summary><h3>Unity 2025 Spooky 챌린지</h3></summary>
+
+<div align="center">
+  
+### Unity 2025 Spooky 챌린지
+[![](https://img.youtube.com/vi/drjDQbW-Te0/maxresdefault.jpg)](https://youtu.be/drjDQbW-Te0)
+
+**▶️ 클릭하여 YouTube에서 시청하기**
+2025년 10월 유니티 코리아에서 주최한 챌린지 작품
+</div>
+- HDRP
+- TimeLine을 이용한 제작
+- 
+
+</details>
 
 ---
 
@@ -100,14 +137,23 @@
 
 국내 버츄얼 유튜버 "이세계 아이돌" 3주년 기념 콘텐츠로, 방탈출 컨셉의 간단한 퀴즈와 상호작용으로 이루어진 VR Chat 맵 및 오리지널 뮤직비디오 콘텐츠입니다. 작업에 참여한 인원이 40명 정도로 오리지널 곡 및 모든 리소스를 자체 제작한 프로젝트입니다.
 
+<div align ="center"> <h4>영상</h4></div>
+
+[![공식 영상](https://img.youtube.com/vi/sVIhXyz0rA4/maxresdefault.jpg)](https://youtu.be/sVIhXyz0rA4)
+**▶️ 클릭하여 YouTube에서 시청하기**
+
+[![영상](https://img.youtube.com/vi/kuSx-fPFHxw/maxresdefault.jpg)](https://youtu.be/kuSx-fPFHxw)
+**▶️ 클릭하여 YouTube에서 시청하기**
+
+<details>
+    <summary>GIF 더보기</summary>
 <div align="center">
     <img src="https://github.com/Sangjin-a/Sangjin-a/blob/main/i_Ine.gif?raw=true" width="400">
     <img src="https://github.com/Sangjin-a/Sangjin-a/blob/main/i_Jingburger.gif?raw=true" width="400">
     <img src="https://github.com/Sangjin-a/Sangjin-a/blob/main/i_Viichan.gif?raw=true" width="400">
     <img src="https://github.com/Sangjin-a/Sangjin-a/blob/main/녹화_2025_07_23_20_49_35_534.gif?raw=true" width="400">
 </div>
-
-[![유튜브 영상](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/sVIhXyz0rA4?si=qsTcHJnyCrjzxscV)
+</details>
 
 ---
 
