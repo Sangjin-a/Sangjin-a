@@ -55,9 +55,12 @@
 ---
 
 ## 💼 Experience
+### 🚀 MetaMotionX (디지털 트윈 기업)
+**Unity Developer** | 2025.11 ~ Present
+- ...
 
 ### 🚀 SOLETOP (항공우주 기업)
-**Unity Developer** | 2024.01 ~ Present
+**Unity Developer** | 2024.01 ~ 2025.11
 
 - 4/25 위성 사업 **GroundTrack** 제작 (Unity)
 - 군집 위성 시뮬레이터 제작 (Unity)
