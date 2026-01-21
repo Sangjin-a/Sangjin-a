@@ -108,22 +108,20 @@
 순천만의 배경과 동물, 곤충들을 사이버펑크식 그래픽으로 표현한 2D 횡스크롤 액션 게임입니다.
 
 ---
-<details>
-<summary><h3>Unity 2025 Spooky 챌린지</h3></summary>
+<summary><h3>Unity 2025 Spooky 챌린지(최우수상 수상)</h3></summary>
 
+**최우수상 수상**
 <div align="center">
   
 ### Unity 2025 Spooky 챌린지
-[![](https://img.youtube.com/vi/drjDQbW-Te0/maxresdefault.jpg)](https://youtu.be/drjDQbW-Te0)
-
+[![](https://img.youtube.com/vi/drjDQbW-Te0/maxresdefault.jpg)](https://youtu.be/h_L7CM_ih_E?t=757)
 **▶️ 클릭하여 YouTube에서 시청하기**
 2025년 10월 유니티 코리아에서 주최한 챌린지 작품
 </div>
 - HDRP
 - TimeLine을 이용한 제작
-- 
 
-</details>
+
 
 ---
 
